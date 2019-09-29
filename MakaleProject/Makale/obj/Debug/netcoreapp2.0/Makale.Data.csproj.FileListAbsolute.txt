@@ -1,0 +1,11 @@
+C:\Users\SAMSUNG\Desktop\MakaleProject\Makale\bin\Debug\netcoreapp2.0\Makale.Data.deps.json
+C:\Users\SAMSUNG\Desktop\MakaleProject\Makale\bin\Debug\netcoreapp2.0\Makale.Data.dll
+C:\Users\SAMSUNG\Desktop\MakaleProject\Makale\bin\Debug\netcoreapp2.0\System.Data.SqlClient.dll
+C:\Users\SAMSUNG\Desktop\MakaleProject\Makale\bin\Debug\netcoreapp2.0\System.Data.SqlClient.xml
+C:\Users\SAMSUNG\Desktop\MakaleProject\Makale\obj\Debug\netcoreapp2.0\Makale.Data.csprojResolveAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\MakaleProject\Makale\obj\Debug\netcoreapp2.0\Makale.Data.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\MakaleProject\Makale\obj\Debug\netcoreapp2.0\Makale.Data.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\Desktop\MakaleProject\Makale\obj\Debug\netcoreapp2.0\Makale.Data.AssemblyInfo.cs
+C:\Users\SAMSUNG\Desktop\MakaleProject\Makale\bin\Debug\netcoreapp2.0\Makale.Data.pdb
+C:\Users\SAMSUNG\Desktop\MakaleProject\Makale\obj\Debug\netcoreapp2.0\Makale.Data.dll
+C:\Users\SAMSUNG\Desktop\MakaleProject\Makale\obj\Debug\netcoreapp2.0\Makale.Data.pdb

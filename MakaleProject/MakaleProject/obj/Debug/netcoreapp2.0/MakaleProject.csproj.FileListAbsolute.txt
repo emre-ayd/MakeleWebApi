@@ -1,0 +1,11 @@
+C:\Users\SAMSUNG\Desktop\MakaleProject\MakaleProject\obj\Debug\netcoreapp2.0\MakaleProject.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\MakaleProject\MakaleProject\obj\Debug\netcoreapp2.0\MakaleProject.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\Desktop\MakaleProject\MakaleProject\obj\Debug\netcoreapp2.0\MakaleProject.AssemblyInfo.cs
+C:\Users\SAMSUNG\Desktop\MakaleProject\MakaleProject\obj\Debug\netcoreapp2.0\MakaleProject.dll
+C:\Users\SAMSUNG\Desktop\MakaleProject\MakaleProject\obj\Debug\netcoreapp2.0\MakaleProject.pdb
+C:\Users\SAMSUNG\Desktop\MakaleProject\MakaleProject\bin\Debug\netcoreapp2.0\MakaleProject.deps.json
+C:\Users\SAMSUNG\Desktop\MakaleProject\MakaleProject\bin\Debug\netcoreapp2.0\MakaleProject.runtimeconfig.json
+C:\Users\SAMSUNG\Desktop\MakaleProject\MakaleProject\bin\Debug\netcoreapp2.0\MakaleProject.runtimeconfig.dev.json
+C:\Users\SAMSUNG\Desktop\MakaleProject\MakaleProject\bin\Debug\netcoreapp2.0\MakaleProject.dll
+C:\Users\SAMSUNG\Desktop\MakaleProject\MakaleProject\bin\Debug\netcoreapp2.0\MakaleProject.pdb
+C:\Users\SAMSUNG\Desktop\MakaleProject\MakaleProject\obj\Debug\netcoreapp2.0\MakaleProject.csprojResolveAssemblyReference.cache
