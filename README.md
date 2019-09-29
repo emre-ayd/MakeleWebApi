@@ -1,7 +1,7 @@
 # MakeleWebApi
 
 Projede kullanıdığınız tasarım desenleri hangileridir? Bu desenleri neden kullandınız?
-  - Projede VeriTabanı ile ilgili işlemler için Repositort Pattern Kulanılmıştır.
+  - Projede VeriTabanı ile ilgili işlemler için Repository Pattern Kulanılmıştır.
   
 Kullandığınız teknoloji ve kütüphaneler hakkında daha önce tecrübeniz oldu mu? Tek tek
 yazabilir misiniz?
